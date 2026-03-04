@@ -1,2 +1,24 @@
-# Spotify-Data-Analysis-and-Visualizations
-This project demonstrates the application of advanced SQL techniques to navigate and analyze a dataset of over 300+ Spotify tracks.
+# 🎵 Spotify Data Analysis and Visualizations
+
+## 📌 Project Overview
+This project analyzes Spotify dataset using SQL to extract meaningful insights.
+
+## 📊 Dataset Information
+- Total Rows: 347
+- Columns: Artist, Track, Views, Streams etc.
+
+## ❓ Business Questions Solved
+1. Top 5 most streamed artists
+2. Top 3 tracks per artist using DENSE_RANK()
+3. Most viewed tracks
+4. Artist-wise total streams comparison
+
+## 🛠 SQL Concepts Used
+- GROUP BY
+- ORDER BY
+- Window Functions
+- DENSE_RANK()
+- Subqueries
+
+## 📈 Dashboard
+Power BI Dashboard – Coming Soon

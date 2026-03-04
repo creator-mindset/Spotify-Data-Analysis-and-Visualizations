@@ -1,5 +1,5 @@
 # 🎵 Spotify Data Analysis and Visualizations
-
+![image alt](https://github.com/creator-mindset/Spotify-Data-Analysis-and-Visualizations/blob/main/spotify_logo.jpg?raw=true)
 ## 📌 Project Overview
 This project analyzes Spotify dataset using SQL to extract meaningful insights.
 

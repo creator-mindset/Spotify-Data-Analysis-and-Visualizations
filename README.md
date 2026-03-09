@@ -4,8 +4,8 @@
 This project analyzes Spotify dataset using SQL to extract meaningful insights.
 
 ## 📊 Dataset Information
-- Total Rows: 347
-- Columns: Artist, Track, Views, Streams etc.
+- Total Rows: 20595
+- Columns: Artist,Track,Album,Album_type,Danceability,Energy,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration_min,Title,Channel,Views,Likes,Comments,Licensed,official_video,Stream,EnergyLiveness,most_playedon
 
 ## ❓ Business Questions Solved
 1. Top 5 most streamed artists

@@ -21,4 +21,4 @@ This project analyzes Spotify dataset using SQL to extract meaningful insights.
 - Subqueries
 
 ## 📈 Dashboard
-![image alt]()
+![image alt](https://github.com/creator-mindset/Spotify-Data-Analysis-and-Visualizations/blob/main/Spotify%20Dashboard%20image.png?raw=true)

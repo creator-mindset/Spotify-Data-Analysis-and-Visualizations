@@ -21,4 +21,4 @@ This project analyzes Spotify dataset using SQL to extract meaningful insights.
 - Subqueries
 
 ## 📈 Dashboard
-Power BI Dashboard – Coming Soon
+![image alt]()
